@@ -1,0 +1,97 @@
+/* .body{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 0;
+   
+}  */
+ div.header{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(230, 143, 89, 0.932);
+    margin-top: 100px;
+    
+}
+div.navbar{
+    
+    height: 100px;
+    width: 100%;
+    background-color: rgba(230, 143, 89, 0.932);
+    margin-top: 20px;
+   
+}
+div.box1{
+    height: 20%;
+    width: 8%;
+    background-color: white;
+    margin: 25px 700px ;
+   
+}
+div.box2{
+    height: 20%;
+    width: 8%;
+    background-color: white;
+    margin: -44px 900px;
+}
+div.box3{
+    height: 20%;
+    width: 8%;
+    background-color: white;
+    margin: 25px 1100px;
+}
+div.box4{
+    height: 20%;
+    width: 8%;
+    background-color: white;
+    margin:  -44px 1300px;
+    
+}
+
+div.artical{
+    height: 500px;
+    width: 70%;
+   background-color: rgb(100, 100, 210);
+   margin-top: 20px;
+}
+div.section1{
+    height: 40px;
+    width: 500px;
+    background-color: rgb(75, 195, 232);
+    margin: 100px;
+}
+div.section2{
+    height: 40px;
+    width: 500px;
+    background-color: rgb(75, 195, 232);
+    margin: 100px;
+}
+div.section3{
+    height: 40px;
+    width: 500px;
+    background-color: rgb(75, 195, 232);
+    margin: 100px;
+}
+div.aside{
+    height: 500px;
+    width: 28%;
+    background-color:rgb(129, 117, 117);
+    margin: -500px 1130px;
+}
+div.aside1{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(196, 200, 201);
+    margin: 80px;
+}
+div.aside2{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(196, 200, 201);
+    margin: 80px;
+}
+div.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(230, 143, 89, 0.932);
+    margin-top: 530px;
+}
